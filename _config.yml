@@ -236,6 +236,12 @@ yat:
 #   label: "utterances comment"
 #   theme: "github-light"
 #   follow_site_theme: true
+layout: post
+title:  "Welcome to bllo's blog!"
+categories: study//카테고리 이름
+tag: [python, blog, embeded]//태그 여러개
+[출처] 깃허브 블로그 만드는 법|작성자 LKW
+
 
 # Build settings
 # highlighter: none
